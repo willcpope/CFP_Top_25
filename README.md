@@ -32,3 +32,11 @@ Financial analysis of the four teams selected in the College Football Playoff fr
 * **Alabama** spent **$62.9M** to make the playoff and made a net revenue of **$48.1M** *(12th highest in FBS)*
 
 ![Test Image 1](2017_net_revenue.png)
+
+## 2014 Top 25 Expenses vs. Revenue
+
+![Test Image 1](2014_scatter.png)
+T Test Results
+Statistic = 5.2085472706871885
+Pvalue = 3.957268339991969e-07
+
