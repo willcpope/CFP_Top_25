@@ -6,6 +6,9 @@ Financial analysis of the four teams selected in the College Football Playoff fr
 * **Oregon** spent **$20.6M** to make the playoff and made a net revenue of **$40.2M** *(11th highest in FBS)*
 * **Florida State** spent **$31.2M** to make the playoff and made a net revenue of **$39M** *(12th highest in FBS)*
 * **Ohio State** spent **$32.5M** to make the playoff and made a net revenue of **$50.9M** *(7th highest in FBS)*
+<img src="{https://github.com/willcpope/CFP_Top_25/blob/master/2014_net_revenue.png" style="display: block; margin: auto;" />
+
+
 
 ## 2015 Playoff
 * **Clemson** spent **$34.6M** to make the playoff and made a net revenue of **$11.2M** *(51st highest in FBS)*
