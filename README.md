@@ -1,5 +1,5 @@
-# Analyzing Financial Success in the College Football Playoff
-Financial analysis of the four teams selected in the College Football Playoff from 2014 - 2017.
+TAnalyzing Financial Success in the College Football Playoff
+TFinancial analysis of the four teams selected in the College Football Playoff from 2014 - 2017.
 
 ## 2014 College Football Playoff
 * **Alabama** spent **$51M** to make the playoff and made a net revenue of **$45.9M** *(10th highest in FBS)*
