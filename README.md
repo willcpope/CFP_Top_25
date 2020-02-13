@@ -1,5 +1,8 @@
-TAnalyzing Financial Success in the College Football Playoff
-TFinancial analysis of the four teams selected in the College Football Playoff from 2014 - 2017.
+## How much does it cost to make the College Football Playoff?
+The perceived succcess of a collegiate athletic director at a FBS insitution is many times determined by the win/loss record and financial growth of the football program. The analysis below provides benchmarks on:
+* How much should be spent on a football program to make the College Football Playoff and Top 25
+* Expecations of a football staff based on the peformance of teams with comparable budgets
+* Net profit forecasting if ranked in the final College Football Playoff Top 25
 
 ## 2014 College Football Playoff
 * **Alabama** spent **$51M** to make the playoff and made a net revenue of **$45.9M** *(10th highest in FBS)*
@@ -9,6 +12,7 @@ TFinancial analysis of the four teams selected in the College Football Playoff f
 
 ![Test Image 1](2014_net_revenue.png)
 
+### 2014 Statistical Analysis of the ROI of All FBS Programs
 ![Test Image 1](2014_scatter.png)
 * **T-test statistic** = 5.2085472706871885
 * **T-test p-value** = 3.957268339991969e-07
@@ -21,6 +25,7 @@ TFinancial analysis of the four teams selected in the College Football Playoff f
 
 ![Test Image 1](2015_net_revenue.png)
 
+### 2015 Statistical Analysis of the ROI of All FBS Programs
 ![Test Image 1](2014_scatter.png)
 * **T-test statistic** = 5.107270906930852
 * **T-test p-value** = 6.486049090789513e-07
@@ -33,6 +38,7 @@ TFinancial analysis of the four teams selected in the College Football Playoff f
 
 ![Test Image 1](2016_net_revenue.png)
 
+### 2016 Statistical Analysis of the ROI of All FBS Programs
 ![Test Image 1](2014_scatter.png)
 * **T-test statistic** = 4.996177577471268
 * **T-test p-value** = 1.0994381309899484e-06
@@ -45,6 +51,7 @@ TFinancial analysis of the four teams selected in the College Football Playoff f
 
 ![Test Image 1](2017_net_revenue.png)
 
+### 2017 Statistical Analysis of the ROI of All FBS Programs
 ![Test Image 1](2014_scatter.png)
 * **T-test statistic** = 4.737869123134426
 * **T-test p-value** = 3.6110260426913373e-06
