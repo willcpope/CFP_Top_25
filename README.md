@@ -1,4 +1,4 @@
-## How much does it cost to make the College Football Playoff?
+**How much does it cost to make the College Football Playoff?**
 The perceived succcess of a collegiate athletic director at a FBS insitution is many times determined by the win/loss record and financial growth of the football program. The analysis below provides benchmarks on:
 * How much should be spent on a football program to make the College Football Playoff and Top 25
 * Expecations of a football staff based on the peformance of teams with comparable budgets
